@@ -1,0 +1,402 @@
+                         District 05042258  Recovered  Quarantine  Critical  Total Deaths
+                     Dithmarschen       37         11         332         0             1
+                        Flensburg       28         10         138         0             1
+              Herzogtum Lauenburg      155          0           0         0             2
+                             Kiel      160         44         394         0             1
+                           Lübeck      103          0           0         0             1
+                       Neumünster       31          0          69         0             0
+                    Nordfriesland       49          9         128         0             1
+                      Ostholstein       51          0           0         0             0
+                        Pinneberg      339          1           0         0             3
+                             Plön       73          0           0         0             2
+            Rendsburg-Eckernförde      166          0           0         0             4
+              Schleswig-Flensburg       95         18         800         0             0
+                         Segeberg      143         57           0         0             0
+                        Steinburg       53          7           0         0             1
+                         Stormarn      195         46         126         0             2
+                          Hamburg     3019       1500           0        54            19
+                        Ammerland      111         35         220         0             2
+                           Aurich       72         38         159         0             3
+                     Braunschweig      225         64           0         0             4
+                            Celle      110         51         186         1             4
+                      Cloppenburg       56         18         169         0             0
+                         Cuxhaven       63         38           0         0             2
+                      Delmenhorst       26          8          48         1             1
+                         Diepholz      221         78         250         6             4
+                            Emden       11          3          27         0             0
+                          Emsland      200         69         700         0             3
+                        Friesland       20          6           0         0             0
+                          Gifhorn       96          0         192         0             0
+                           Goslar       82         14         183         0             3
+                        Göttingen      340         21        1738         0             7
+              Grafschaft Bentheim      132         27         460         0             2
+                   Hameln-Pyrmont       89         33         138         0             2
+                          Harburg      275         75           0         0             1
+                       Heidekreis       41         12           0         0             0
+                        Helmstedt       82         24         164         0             0
+                       Hildesheim      197        113         344         0             1
+                       Holzminden       79         33           0         0             1
+                             Leer       59         23         112         0             1
+                Lüchow-Dannenberg       13          7          49         0             0
+                         Lüneburg      120         60           0         0             0
+                 Nienburg (Weser)       52         16         380         0             0
+                         Northeim       53         18           0         0             0
+                        Oldenburg      169         59         311         0             1
+                 Oldenburg (Oldb)      143          2         584         0             0
+                        Osnabrück      312        162         135        22             4
+                        Osnabrück      472        163         395         0             8
+                        Osterholz       57         29          76         0             0
+                            Peine      110         30          90         0             2
+                  Region Hannover     1110        270           0        50            11
+                Rotenburg (Wümme)       72         25         154         0             1
+                       Salzgitter       70         36         469         0             1
+                       Schaumburg       81         30          48         0             0
+                            Stade      152         91         119         0             2
+                           Uelzen       29         11           8         0             0
+                           Vechta      230         65         845         0             3
+                           Verden       96         34           0         0             1
+                      Wesermarsch       47         14           0         0             0
+                    Wilhelmshaven       10          7          23         0             0
+                         Wittmund       16          6          45         0             0
+                     Wolfenbüttel       76          0           0         0             0
+                        Wolfsburg      221          0           0         3            28
+                           Bremen      368        123         138         3             8
+                      Bremerhaven       25         12           0         0             0
+                        Bielefeld      222         86        2566         8             1
+                           Bochum      319        140         650        17            11
+                             Bonn      395         92         768        18             3
+                           Borken      664        246           0        12            12
+                          Bottrop       60         21         143         0             1
+                         Coesfeld      399        140           0        10             5
+                         Dortmund      414        168           0        11             2
+                         Duisburg      394        122        1090         0             2
+                            Düren      347        152           0         0            12
+                       Düsseldorf      595        241         332        38             5
+                Ennepe-Ruhr-Kreis      260         96         484         2             1
+                            Essen      512        204         668         0            11
+                       Euskirchen      213         65         188         3             2
+                    Gelsenkirchen      186         25           0         0             3
+                        Gütersloh      481        234         217         6             4
+                            Hagen      114         56           0         5             2
+                             Hamm      251         81        1162         0             4
+                        Heinsberg     1461        768           0         0            44
+                          Herford      232         67           0         0             1
+                            Herne       69         32           0         0             0
+               Hochsauerlandkreis      396        127           0        10             2
+                           Höxter      148         22           0         0             1
+                            Kleve      304        114        1321         0             4
+                             Köln     1768        730           0        68            31
+                          Krefeld      264         89         979         8             1
+                       Leverkusen      149         44         102         0             1
+                            Lippe      468         98           0         0             5
+                 Märkischer Kreis      175         31         684         0             3
+                         Mettmann      585        221         297         0            13
+                  Minden-Lübbecke      397        174           0         2             1
+                  Mönchengladbach      294        120         501         0             5
+              Mülheim an der Ruhr      105         47         206         0             2
+                          Münster      559        270           0         0             3
+             Oberbergischer Kreis      314        115         228         5             5
+                       Oberhausen      108         31         139         2             0
+                             Olpe      228         98         541        10             4
+                        Paderborn      386         58         800         3             6
+                   Recklinghausen      540        242           0         0             3
+                        Remscheid       92         38         578         4             2
+                 Rhein-Erft-Kreis      539        164         938        20            10
+                Rhein-Kreis Neuss      475        263         748         0             6
+                 Rhein-Sieg-Kreis      789        184        3000         0             8
+       Rheinisch-Bergischer Kreis      281        148         580         0             3
+              Siegen-Wittgenstein      182         40           0         3             4
+                            Soest      235        103           0         2             1
+                         Solingen      141         41         264         0             1
+              Städteregion Aachen     1259        578           0         0            27
+                        Steinfurt      664        221        1350         0             8
+                             Unna      365        105           0         0             8
+                          Viersen      403         88         264         0             9
+                        Warendorf      343        205         500         0             2
+                            Wesel      285        140           0         0             2
+                        Wuppertal      328         41        1788         0             5
+                       Bergstraße      228         55           0         0             1
+                        Darmstadt       92         33           0         0             0
+                Darmstadt-Dieburg      231        102           0         3             3
+                Frankfurt am Main      578          0           0         0             5
+                            Fulda      217         18           0         0             2
+                           Gießen      170         49           0         0             0
+                       Groß-Gerau      245         81           0         0             1
+               Hersfeld-Rotenburg      127         26           0         0             8
+                  Hochtaunuskreis      177          0           0         0             1
+                           Kassel      103         48          38         0             2
+                           Kassel      114         54          33        15             3
+                  Lahn-Dill-Kreis      227         63         619         0             2
+                 Limburg-Weilburg      198         92           0         0             1
+                Main-Kinzig-Kreis      257         57           0         0             3
+                Main-Taunus-Kreis      165         82           0         0             3
+               Marburg-Biedenkopf      141         76           0         6             1
+                    Odenwaldkreis      131         30           0         5             8
+                        Offenbach      241         83           0         0             6
+                Offenbach am Main       35          9          14         3             1
+            Rheingau-Taunus-Kreis      147          0           0         0             0
+               Schwalm-Eder-Kreis      275          0           0         0             7
+                  Vogelsbergkreis       78         22           5         0             2
+              Waldeck-Frankenberg       90          0           0         0             0
+              Werra-Meißner-Kreis       30         12         100         0             0
+                    Wetteraukreis      153         30           0         7             1
+                        Wiesbaden      238         60         675         0             4
+                        Ahrweiler       95         33         166         0             0
+        Altenkirchen (Westerwald)       66         27           0         2             1
+                      Alzey-Worms      107         64           0         2             0
+                     Bad Dürkheim      220         54           0         0             3
+                    Bad Kreuznach      137         29         107         0             1
+              Bernkastel-Wittlich       85         30           0         1             0
+                       Birkenfeld       53          9         220         0             0
+                      Cochem-Zell      117         63           0         0             0
+                 Donnersbergkreis       71         31         286         0             1
+          Eifelkreis Bitburg-Prüm      121         30           0         0             0
+              Frankenthal (Pfalz)       27          0           0         0             0
+                      Germersheim       91         38           0         0             1
+                   Kaiserslautern       71         13           0         0             1
+                   Kaiserslautern       82         19           0         0             0
+                          Koblenz      167         50           0         0             7
+                            Kusel       64         41          23         0             0
+              Landau in der Pfalz       48          7           0         0             0
+            Ludwigshafen am Rhein      126          0           0         0             0
+                            Mainz      249        198           0         0             1
+                     Mainz-Bingen      211          0           0         0             3
+                    Mayen-Koblenz      250        110           0         0             2
+       Neustadt an der Weinstraße       71          0           0         0             1
+                          Neuwied      161          6           0         0             2
+                        Pirmasens       23          0           0         0             0
+             Rhein-Hunsrück-Kreis      124         42           0         0             0
+                 Rhein-Lahn-Kreis      115         39           0         1             2
+                Rhein-Pfalz-Kreis      142          0           0         0             1
+                           Speyer       38          0          60         0             0
+              Südliche Weinstraße      115         34           0         0             0
+                     Südwestpfalz       75         19           0         0             2
+                            Trier       73         22           0         0             0
+                   Trier-Saarburg      105         33           0         0             1
+                      Vulkaneifel       83         30           0         0             1
+                  Westerwaldkreis      204         59         194         0             5
+                            Worms      111         27           0         0             2
+                      Zweibrücken       26          0           0         0             0
+                  Alb-Donau-Kreis      366          0           0         0             2
+                      Baden-Baden      110          0           0         0             5
+                         Biberach      338          0           0         0             4
+                        Böblingen     1001        251           0         0            15
+                    Bodenseekreis      238        134         375         0             4
+         Breisgau-Hochschwarzwald      706          0           0         0            14
+                             Calw      444        150           0         0            11
+                      Emmendingen      401         34           0         0            21
+                         Enzkreis      202        105           0         0             3
+                        Esslingen     1117        397           0         0            30
+             Freiburg im Breisgau      684          0           0         0            20
+                     Freudenstadt      276          0          13         5             3
+                        Göppingen      541        183           0        12            14
+                       Heidelberg      234        100         362         0             2
+                       Heidenheim      287         60           0         0             7
+                        Heilbronn      274          0           0         0             1
+                        Heilbronn      521         83           0         0             8
+                   Hohenlohekreis      557        295        1906         3            15
+                        Karlsruhe      238         68           0         0             2
+                        Karlsruhe      640        169           0         0            11
+                         Konstanz      267         82         111         0             2
+                          Lörrach      396        112           0         8            13
+                      Ludwigsburg     1072        178           0         0            18
+                Main-Tauber-Kreis      237         47           0         0             1
+                         Mannheim      319         91           0         0             3
+            Neckar-Odenwald-Kreis      148         35           0         0             6
+                     Ortenaukreis      624          9           0         0            38
+                      Ostalbkreis      662        290           0         0             5
+                        Pforzheim       74          0           0         0             3
+                          Rastatt      371        129           0         0             2
+                       Ravensburg      417        119           0         0             4
+                  Rems-Murr-Kreis      771        137           0         0            11
+                       Reutlingen      681         96           0         0            12
+               Rhein-Neckar-Kreis      713        305        1138         0            15
+                         Rottweil      289         81           2         0             4
+                  Schwäbisch Hall      686        207           0         0            23
+           Schwarzwald-Baar-Kreis      306         93          80         0             3
+                      Sigmaringen      517        189           0         0            15
+                        Stuttgart     1024        470        1500         0            12
+                         Tübingen      980        130           0        24            13
+                       Tuttlingen      299         25         238         0             4
+                              Ulm      183          0           0         0             1
+                         Waldshut      190         62           0         0             5
+                  Zollernalbkreis      567         80           0        15            19
+                Aichach-Friedberg      171         80         175         3             3
+                        Altötting      272          0           0         6             6
+                           Amberg       34          0           0         0             1
+                  Amberg-Sulzbach      142          0          60         0             3
+                          Ansbach       56          1           0         0             0
+                          Ansbach      266         19           0         0             1
+                    Aschaffenburg       68          0           0         0             0
+                    Aschaffenburg      233          0           0         0            12
+                         Augsburg      247         73           0         0             4
+                         Augsburg      261         86           0         0             1
+                    Bad Kissingen      132         30         266         0             1
+          Bad Tölz-Wolfratshausen      266        127          54         3             4
+                          Bamberg      102          0           0         0             0
+                          Bamberg      280         60           0        11             6
+                         Bayreuth      105         19           0         7             2
+                         Bayreuth      190         35           0        12             2
+             Berchtesgadener Land      165         44         161         6             3
+                             Cham      267          0           0         2             5
+                           Coburg       32          0          30         0             0
+                           Coburg       84         42         270         0             1
+                           Dachau      500         67         646         0             6
+                       Deggendorf      154         43           0         0             4
+               Dillingen ad Donau       90          0         197         0             1
+                Dingolfing-Landau      126          2           0         0             1
+                       Donau-Ries      191          0           0         0             5
+                        Ebersberg      282         93         346         6             1
+                        Eichstätt      120          0         352         0             3
+                           Erding      420         98           0         8             3
+                         Erlangen      138          0           0         0             1
+               Erlangen-Höchstadt      125          0           0         0             1
+                        Forchheim      148         20           0         2             2
+                         Freising      678        228           0         0            14
+                 Freyung-Grafenau      113         16         425         4             2
+                 Fürstenfeldbruck      512         90           0         5             8
+                            Fürth      143          0           0         0             2
+                            Fürth      236         13           0         0             5
+           Garmisch-Partenkirchen      182          0           0         0             1
+                         Günzburg      140         12         353         0             1
+                         Haßberge       87         21         160         0             0
+                              Hof       60          9           0         0             1
+                              Hof      210         47           0         0             3
+                       Ingolstadt      205         49           0        15             3
+                       Kaufbeuren       56          0           0         0             1
+                          Kelheim      258        108         248         0            11
+                 Kempten (Allgäu)       53         10           0         0             3
+                        Kitzingen       60         14         203         0             0
+                          Kronach       73         21         254         0             0
+                         Kulmbach      106         22           0         0             2
+                Landsberg am Lech      217          0           0         0             4
+                         Landshut      163          0           0         0             0
+                         Landshut      403        142           0        24            14
+                      Lichtenfels      125         28           0         3             1
+                Lindau (Bodensee)      188          0           0         0             4
+                    Main-Spessart      104          0         280         3             2
+                        Memmingen       40          0           0         0             0
+                         Miesbach      397        128           0         7             2
+                       Miltenberg      178         48           0         1             0
+                   Mühldorf a Inn      281         12           0        10             4
+                          München     3642       1103           0         0            14
+                          München      893        321           0         0            10
+                          Neu-Ulm      235         34           0         0             2
+           Neuburg-Schrobenhausen      121         46           0         0             3
+                  Neumarkt id OPf      146         21           0         0             2
+  Neustadt ad Aisch-Bad Windsheim       94         10          59         0             1
+             Neustadt ad Waldnaab      406          0           0         0            13
+                         Nürnberg      483         50        1861         0             6
+                  Nürnberger Land      375          0           0         6            11
+                       Oberallgäu      130         34           0         0             3
+                        Ostallgäu      296          0           0         0             7
+                           Passau       81          0         100         8             3
+                           Passau      262          0           0         8             7
+              Pfaffenhofen ad Ilm      200         26         509         2             3
+                            Regen       89          3           0         0             0
+                       Regensburg      263          0           0         0             3
+                       Regensburg      259          0           0         0             0
+                    Rhön-Grabfeld       76         14          21         0             0
+                        Rosenheim      245         35           0        35             4
+                        Rosenheim     1172         47           0         0            31
+                             Roth      183         17         125         0             3
+                       Rottal-Inn      494        179         400        13            16
+                        Schwabach       47          0           0         0             0
+                       Schwandorf      255         28         600         0             8
+                      Schweinfurt       84         10         230         0             7
+                      Schweinfurt      230         45         403         0             4
+                        Starnberg      408          0        1200         8             2
+                        Straubing      179          0           0         6             5
+                  Straubing-Bogen      218         20           0        10             7
+                    Tirschenreuth      762          0           0         0            41
+                       Traunstein      466         22           0        11            11
+                      Unterallgäu      184          5           0         0             4
+                    Weiden id OPf      136          0           0         0             4
+                Weilheim-Schongau      279          0          70         5             1
+          Weißenburg-Gunzenhausen      155          0           0         0             2
+       Wunsiedel i Fichtelgebirge      416        110           0         0             9
+                         Würzburg      361         95         860         0            26
+                         Würzburg      290         76         691         0             0
+                    Merzig-Wadern      121         14           0         0             1
+                      Neunkirchen      154          0           0         0             0
+      Regionalverband Saarbrücken      648        144           0        48            17
+                        Saarlouis      278         40           0         0             3
+                  Saarpfalz-Kreis      222         31           0         0             2
+                        St Wendel      121         32           0         0             1
+                           Berlin     3687       1938           0       126            26
+                           Barnim      109         20         345         0             2
+         Brandenburg an der Havel       33          9          76         0             1
+                          Cottbus       34         17         100         2             0
+                  Dahme-Spreewald      117         14         242         0             2
+                      Elbe-Elster       53          6           0         0             1
+                 Frankfurt (Oder)       14          0          10         0             0
+                        Havelland       92          0           0         0             1
+                Märkisch-Oderland      112         46         482         4             1
+                        Oberhavel      137         38         948         0             2
+            Oberspreewald-Lausitz       28          3         114         1             0
+                       Oder-Spree       83         25          46         0             0
+               Ostprignitz-Ruppin       31          1         175         0             0
+                          Potsdam      264          8         610        14            11
+               Potsdam-Mittelmark      199         12         238         0             5
+                         Prignitz       13          0           0         0             0
+                      Spree-Neiße       51         26         150         0             0
+                   Teltow-Fläming       70         13          92         0             0
+                        Uckermark       22          0           0         2             1
+              Ludwigslust-Parchim       54         28           0         0             1
+      Mecklenburgische Seenplatte       94         18           0         0             3
+              Nordwestmecklenburg       51         22          95         0             1
+                          Rostock       64          1           0         0             0
+                          Rostock       46         10           0         0             1
+                         Schwerin       77         30          87         0             0
+            Vorpommern-Greifswald       81         16           0         0             0
+                 Vorpommern-Rügen       61         18           0         0             0
+                          Bautzen      207         43         497         0             2
+                         Chemnitz      147          0           0         0             2
+                          Dresden      448          0           0         0             4
+                  Erzgebirgskreis      288          0         932         0            10
+                          Görlitz      167         18         177         1             4
+                          Leipzig      421          0        1207         0             2
+                          Leipzig      134         48         147         0             2
+                           Meißen      121         28         217         3             3
+                    Mittelsachsen      161         59         315         0             1
+                      Nordsachsen       79          0         182         0             0
+ Sächsische Schweiz-Osterzgebirge      255         43           0         0             1
+                    Vogtlandkreis      151         39           0         0             1
+                          Zwickau      500          0         694         0             9
+           Altmarkkreis Salzwedel       19          0          49         0             0
+                Anhalt-Bitterfeld       48          5         131         0             0
+                            Börde       68         31           0         0             0
+                  Burgenlandkreis       52         20         161         0             0
+                    Dessau-Roßlau       35          0           0         0             1
+                    Halle (Saale)      214         50         600        12             3
+                             Harz       84         22         210         0             1
+                  Jerichower Land       25          7         121         0             1
+                        Magdeburg       88        238           0         0             1
+                 Mansfeld-Südharz       30          0         161         0             1
+                       Saalekreis       83         10         258         0             1
+                    Salzlandkreis       54         17          74         0             0
+                          Stendal       64          0         370         0             2
+                       Wittenberg      113          0          89         0             1
+                 Altenburger Land       30          6           0         1             0
+                        Eichsfeld       73          8           0         2             1
+                         Eisenach        8          1           4         1             0
+                           Erfurt       95        361         869         1             0
+                             Gera       36          3           0         0             0
+                            Gotha       37          6           0         0             0
+                            Greiz      182          8           0         6             5
+                   Hildburghausen       11          0           0         0             1
+                        Ilm-Kreis       93         19         463         1             1
+                             Jena      142         36           0         2             1
+                  Kyffhäuserkreis       27          6           0         0             0
+                       Nordhausen       21          2           0         1             0
+             Saale-Holzland-Kreis       45         21         246         0             0
+                 Saale-Orla-Kreis       65          4           0         0             1
+              Saalfeld-Rudolstadt       48         18         183         0             0
+           Schmalkalden-Meiningen       38         26          78         0             0
+                         Sömmerda       29          3           6         0             0
+                        Sonneberg       36          1           0         1             1
+                             Suhl       10          1          22         3             2
+            Unstrut-Hainich-Kreis       35          5         293         0             0
+                    Wartburgkreis       29          6         135         1             0
+                           Weimar       49          6           0         0             0
+                    Weimarer Land       41          3           0         0             0
