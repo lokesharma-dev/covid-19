@@ -1,0 +1,17 @@
+             Bundesland 26031946 Total Death Recovered
+     Schleswig-Holstein      747           6         4
+                Hamburg     1614           2         0
+          Niedersachsen     3021          11       268
+                 Bremen      244           1        40
+    Nordrhein-Westfalen    11579          84      1015
+                 Hessen     2247           8        58
+        Rheinland-Pfalz     2105           9        33
+      Baden-Württemberg     9489          74       323
+                 Bayern    10188          58       123
+               Saarland      540           2         0
+                 Berlin     1937           8       384
+            Brandenburg      634           1        14
+ Mecklenburg-Vorpommern      262           0         7
+                Sachsen     1350           5        15
+         Sachsen-Anhalt      527           2        21
+              Thüringen      564           5        72
